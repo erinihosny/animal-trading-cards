@@ -7,4 +7,4 @@ However, learners will be able to fork it to their personal Github account but c
 # animal-trading-cards
 Animal Trading Cards Project for Udacity's Web Nanodegree Programs.
 
-
+Use your knowledge of HTML and CSS to create a web-based trading card depicting your favorite animal.
